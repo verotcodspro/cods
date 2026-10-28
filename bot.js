@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 // Bot sozlamalari
 const CONFIG = {
-  host: 'verosara.mangoohost.live', // Server IP manzili
-  port: 21540,                      // Port raqami
+  host: 'verosara.dpdns.org', // Server IP manzili
+  port: 23199,                      // Port raqami
   username: 'aurora',              // Botning o'yinchi nomi
   password: 'auroraaurora',           // Parol (Login / Register uchun)
   version: '1.16.5',                // Minecraft versiyasi
